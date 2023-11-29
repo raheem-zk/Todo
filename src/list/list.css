@@ -1,0 +1,13 @@
+
+
+.list-title{
+    border: 2px solid rgb(195, 195, 236);
+    padding: 4px;
+}
+
+.delete-btn{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}

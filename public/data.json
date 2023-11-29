@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "title 1",
+      "descr": "first description",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "title 2",
+      "descr": "first description",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "title": "title 3",
+      "descr": "first description",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "title": "title 4",
+      "descr": "first description",
+      "isActive": true
+    }
+  ]
+  

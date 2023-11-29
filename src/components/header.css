@@ -1,0 +1,19 @@
+.app-header{
+    color: rgb(224, 151, 55);
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+
+.header-name{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.header-nav-item{
+    display: flex;
+    display: inline-block;
+    
+    color: rgb(180, 134, 74);
+    padding-left: 30px;
+}
